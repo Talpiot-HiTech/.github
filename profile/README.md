@@ -2,10 +2,9 @@
 
 <p align="center"> 
       <a href="https://www.talpiot-hitech.com"><img src="https://img.shields.io/badge/-Website-gray?style=for-the-badge&labelColor=black&logo=googlechrome&logoColor=white"/></a>
-       <a href="mailto:info@talpiot-hitech.com"> <img src="https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&labelColor=black&logo=gmail&logoColor=EA4335"/> </a>
+       <a href="mailto:info@talpiot-hitech.com"> <img src="https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&labelColor=black&logo=gmail&logoColor=EA4335"/></a>
     <a href="https://www.linkedin.com/school/talpiot-hitech"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077B5"/></a>
-    <a href="https://www.facebook.com/TalpiotHiTech"><https://img.shields.io/badge/-facebook-1877F2?style=for-the-badge&labelColor=black&logo=facebook&logoColor=1877F2%22
-/></a>
+    <a href="https://www.facebook.com/TalpiotHiTech"><img src="https://img.shields.io/badge/-facebook-1877F2?style=for-the-badge&labelColor=black&logo=facebook&logoColor=1877F2%22"/></a>
   <a href="https://www.youtube.com/channel/UCR4J_RDIdSDjgYvB66gJ31w"><img src="https://img.shields.io/badge/-youtube-ff0000?style=for-the-badge&labelColor=black&logo=youtube&logoColor=ff0000"/></a>
     <a href="https://github.com/Talpiot-HiTech/"><img src="https://img.shields.io/badge/-github-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=white"/></a>
     <br/>
