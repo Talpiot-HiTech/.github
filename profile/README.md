@@ -15,7 +15,7 @@
 
 ---
 
-<img align='right' src="" width="300"/>
+<img align='right' src="https://github.com/Talpiot-HiTech/.github/blob/main/profile/images/talpiot-hitech-logo.png" width="200"/>
 
 ## About Us
 
@@ -44,18 +44,18 @@ const talpiotHiTech = {
     whatWeTeach: ["web development", "mobile", "devops", "more..."],
     technologies: {
         frontEnd: {
-            js: ["React", "Angular", TypeScript],
+            js: ["React", "Angular", "TypeScript"],
             css: ["css", "sass", "scss"],
         },
         backEnd: {
-            js: ["Node", "Express", TypeScript],
+            js: ["Node", "Express", "TypeScript"],
             cSharp: ["ASP.NET", ".NET Framework", ".NET Core"],
             python: ["Django", "Flask"]
         },
         mobileApp: {
             crossPlatform: ["React Native", "Ionic", "Flutter"],
             ios: ["Swift", "Objectice C"],
-            android: ["Kotlin", Java],
+            android: ["Kotlin", "Java"],
         },
         devOps: {
             cloudProviders: ["AWS"],
