@@ -19,9 +19,9 @@
 
 ## About Us
 
-Talpiot HiTech is a revolutionary training program in the Hi-Tech world by HyperActive HiTech. The program first started, in 1998, and it allows viable candidates to enter the Hi-Tech world in engineering and development roles.
+Talpiot HiTech is a revolutionary training program in the High-Tech world by HyperActive HiTech. The program first started, in 1998, and it allows viable candidates to enter the Hi-Tech world in engineering and development roles.
 
-The program promises each candidate a customized training program and employment to reach their full potential of a career in development in the Hi-Tech industry. It trains ordinary people into highly capable developers in many areas of expertise, on an average of 2000 academic hours. After the training is completed, you will be placed into a company for two years.
+The program promises each candidate a customized training program and employment to reach their full potential of a career in development in the High-Tech industry. It trains ordinary people into highly capable developers in many areas of expertise, on an average of 2000 academic hours. After the training is completed, you will be placed into a company for two years.
 
 The program introduces a completely new approach in training candidates to the High-Tech industry and is based on the following principles:
 1. Strict admission and screening conditions ensure the best admission to the program.
